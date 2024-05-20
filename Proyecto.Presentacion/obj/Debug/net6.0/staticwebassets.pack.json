@@ -1,0 +1,781 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Proyecto.Presentacion.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Proyecto.Presentacion.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\css\\sb-admin-2.css",
+      "PackagePath": "staticwebassets\\css\\sb-admin-2.css"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\css\\sb-admin-2.min.css",
+      "PackagePath": "staticwebassets\\css\\sb-admin-2.min.css"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\js\\sb-admin-2.js",
+      "PackagePath": "staticwebassets\\js\\sb-admin-2.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\js\\sb-admin-2.min.js",
+      "PackagePath": "staticwebassets\\js\\sb-admin-2.min.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\_cards.scss",
+      "PackagePath": "staticwebassets\\scss\\_cards.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\_charts.scss",
+      "PackagePath": "staticwebassets\\scss\\_charts.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\scss\\_dropdowns.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\_error.scss",
+      "PackagePath": "staticwebassets\\scss\\_error.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\_global.scss",
+      "PackagePath": "staticwebassets\\scss\\_global.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\_login.scss",
+      "PackagePath": "staticwebassets\\scss\\_login.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\_navs.scss",
+      "PackagePath": "staticwebassets\\scss\\_navs.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\navs\\_global.scss",
+      "PackagePath": "staticwebassets\\scss\\navs\\_global.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\navs\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\scss\\navs\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\navs\\_topbar.scss",
+      "PackagePath": "staticwebassets\\scss\\navs\\_topbar.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\sb-admin-2.scss",
+      "PackagePath": "staticwebassets\\scss\\sb-admin-2.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\utilities\\_animation.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_animation.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\utilities\\_border.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_border.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\utilities\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\utilities\\_rotate.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_rotate.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\datatables\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\vendor\\datatables\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\datatables\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\vendor\\datatables\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\datatables\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\vendor\\datatables\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\datatables\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\vendor\\datatables\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\datatables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\vendor\\datatables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\Descargas\\FuenteWebASPMVC\\Proyecto_WebASP_MVC\\Proyecto.Presentacion\\wwwroot\\vendor\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\vendor\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Proyecto.Presentacion.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Proyecto.Presentacion.props",
+      "PackagePath": "build\\Proyecto.Presentacion.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Proyecto.Presentacion.props",
+      "PackagePath": "buildMultiTargeting\\Proyecto.Presentacion.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Proyecto.Presentacion.props",
+      "PackagePath": "buildTransitive\\Proyecto.Presentacion.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
